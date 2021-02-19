@@ -42,6 +42,24 @@ body {
   margin-top: 40px;
 }
 
+#blackfooter .ui.menu {
+  background-color: black;
+  height: 120px;
+  margin-top: 40px;
+}
+
+#blackfooter .whitetext {
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+#blackfooter .graytext {
+  color: gray;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
 #blackfooter a {
   color: #209d20;
   cursor: pointer;
@@ -51,4 +69,31 @@ body {
 
 #blackfooter a:hover {
   color: #209d20;
+}
+
+#whitefooter {
+  height: 150px;
+  background-color: white;
+}
+
+#whitefooter .ui.menu {
+  box-shadow: none;
+  border: none;
+}
+
+#whitefooter .graytext {
+  color: lightgray;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#whitefooter .small {
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+#whitefooter .tiny {
+  font-size: 12px;
+  font-weight: lighter;
 }
