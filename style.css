@@ -1,0 +1,54 @@
+body {
+  margin-top: 110px;
+  background-color: #eee;
+}
+
+.ui.reallyHuge.header {
+  font-size: 40px;
+  font-weight: lighter;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.ui.long.header {
+  width: 300px;
+}
+
+.ui.divider {
+  background-color: darkgrey;
+}
+
+#topmenu {
+  height: 45px;
+  box-shadow: none;
+  border: none;
+}
+
+#blackmenu {
+  margin-top: 45px;
+  height: 65px;
+  background-color: black;
+}
+
+#blackfooter {
+  margin-top: 70px;
+  background-color: black;
+}
+
+#blackfooter h1 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+#blackfooter a {
+  color: #209d20;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+#blackfooter a:hover {
+  color: #209d20;
+}
