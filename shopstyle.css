@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.ui.reallyHuge.header {
+  margin-top: 80px;
+  font-weight: bold;
+  font-family: Bahnschrift, sans-serif;
+}
+
+#long .ui.divider {
+  margin-top: 100px;
+  background-color: #2a2a2a;
+}
+
+#shopmenu h2, h3 {
+  margin-top: 50px;
+  font-family: Bahnschrift, sans-serif;
+}
+
+#shopmenu h3 {
+  font-size: 13px;
+}
+
+#shopmenu button {
+  width: 205px;
+  margin-bottom: 20px;
+}
+
+#blackfooter {
+  margin-top: 20px;
+}
